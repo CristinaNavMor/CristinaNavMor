@@ -2,6 +2,10 @@
 
 **A web developer and psychologist living in Sevilla.**
 
+I love solving problems through code, building high-quality, accessible solutions that truly meet users' needs.
+
+This GitHub is still in an openning process, but feel free to check out my projects and reach out if you’d like to connect!
+
 ## 🌐 Connect With Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://linkedin.com/in/cristina-n-a09a61ab)
