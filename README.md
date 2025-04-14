@@ -2,7 +2,10 @@
 
 **A web developer and psychologist living in Sevilla.**
 
+## 🌐 Connect With Me
 
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://linkedin.com/in/cristina-n-a09a61ab)
+[<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">](mailto:cristinanavarro.wd@gmail.com)
 
 
 ### My skills  
