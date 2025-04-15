@@ -12,7 +12,7 @@ This GitHub is still in an openning process, but feel free to check out my proje
 [<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">](mailto:cristinanavarro.wd@gmail.com)
 
 
-### My skills  
+## My skills  
 **Backend**<br>
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
@@ -51,7 +51,7 @@ This GitHub is still in an openning process, but feel free to check out my proje
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 
-### 📊 Statistics  
+## 📊 Statistics  
 [![Top Langs](https://github-readme-stats-2-liart.vercel.app/api/top-langs/?username=CristinaNavMor&size_weight=0.5&count_weight=0.5&hide=hack,blade&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats-2-liart.vercel.app/api?username=CristinaNavMor&show_icons=true&include_all_commits=true&theme=shades-of-purple#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
