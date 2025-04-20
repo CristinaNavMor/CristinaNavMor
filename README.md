@@ -6,6 +6,8 @@ I love solving problems through code, building high-quality, accessible solution
 
 This GitHub is still in an openning process, but feel free to check out my projects and reach out if you’d like to connect!
 
+![image title](https://rushter.com/counter.svg)
+
 ## 🌐 Connect With Me
 
 [<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](https://linkedin.com/in/cristina-n-a09a61ab)
