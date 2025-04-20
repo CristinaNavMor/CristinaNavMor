@@ -6,7 +6,7 @@ I love solving problems through code, building high-quality, accessible solution
 
 This GitHub is still in an openning process, but feel free to check out my projects and reach out if you’d like to connect!
 
-![image title](https://rushter.com/counter.svg)
+![](https://komarev.com/ghpvc/?username=CristinaNavMor&color=orange)
 
 ## 🌐 Connect With Me
 
