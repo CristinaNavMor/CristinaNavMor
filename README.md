@@ -6,7 +6,7 @@ I love solving problems through code, building high-quality, accessible solution
 
 This GitHub is still in an openning process, but feel free to check out my projects and reach out if you’d like to connect!
 
-![](https://komarev.com/ghpvc/?username=CristinaNavMor&color=orange)
+![](https://komarev.com/ghpvc/?username=CristinaNavMor&color=orange&style=plastic)
 
 ## 🌐 Connect With Me
 
