@@ -19,6 +19,7 @@ This GitHub is still in an openning process, but feel free to check out my proje
 ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?logo=hibernate&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?logo=apachekafka&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
@@ -43,6 +44,7 @@ This GitHub is still in an openning process, but feel free to check out my proje
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 **DevOps & Tools**<br>
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
@@ -52,6 +54,7 @@ This GitHub is still in an openning process, but feel free to check out my proje
 **Testing**<br>
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+![Mockito](https://img.shields.io/badge/Mockito-00C853?logo=java&logoColor=white)
 
 ## 📊 Statistics  
 [![Top Langs](https://github-readme-stats-2-liart.vercel.app/api/top-langs/?username=CristinaNavMor&size_weight=0.5&count_weight=0.5&hide=hack,blade&layout=compact&langs_count=12)](https://github.com/anuraghazra/github-readme-stats)
